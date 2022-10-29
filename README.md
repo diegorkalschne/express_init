@@ -9,4 +9,4 @@ Um simples projeto que busca demonstrar a criação de uma API utilizando expres
 2. Execute `npm i`
 3. Execute `npm run dev`
 
-Ficou com alguma dúvida? Escrevi um artigo no Medium falando um pouco sobre esse projeto, confere lá: [Criando API em Node.js]()
+Ficou com alguma dúvida? Escrevi um artigo no Medium falando um pouco sobre esse projeto, confere lá: [Criando API em Node.js](https://medium.com/@diegokalschne/84f82dda36dc)
